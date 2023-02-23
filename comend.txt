@@ -1,0 +1,8 @@
+git init
+git remote
+git add. atau git stage // Memasukan ke tahap stage
+git commit // Memberikan catatan
+git push
+git pull
+git clone
+tugas memasukan file codingan di vscode ke github
